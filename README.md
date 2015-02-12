@@ -1,6 +1,6 @@
 # image-picker-test
 
-What appears to be a bug in iOS is actually a constraint - who would have figured. For those of us trying to make the `UIImagePickerController` appear in a `UIPopoverController` on an iPad in landscape, forget it. 
+What appears to be a bug in iOS is actually a constraint - who would have figured. For those of us trying to make the camera mode of `UIImagePickerController` appear in a `UIPopoverController` on an iPad in landscape, forget it. 
 
 Many have asked, many have answered. This test project follows the steps in this [answer](http://stackoverflow.com/a/20468336/883413) exactly.
 
